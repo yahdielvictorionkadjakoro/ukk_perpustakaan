@@ -80,7 +80,7 @@ class BukuController extends Controller
   {
     $data = $this->model('KBRelasi')->get();
     $html 	= "<center>";
-		$html 	.= "<h1>SMK ASSALAM SAMARANG</h1>";
+		$html 	.= "<h1>SMK REAL INFORMATIKA`</h1>";
 		$html 	.= "<h2>PERPUSTAKAAN DIGITAL</h2>";
 		$html 	.= "<h3>DAFTAR BUKU</h3>";
 		$html 	.= "<hr>";
